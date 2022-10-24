@@ -1,0 +1,4 @@
+    for (int i = 0; i < argc; i++) {
+        printf("Argumento %d: ", i);
+        puts(argv[i]);
+    }
