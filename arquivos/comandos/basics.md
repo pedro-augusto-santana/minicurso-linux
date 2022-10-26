@@ -98,4 +98,14 @@ podem ser recuperados.
   
 `shred` é ***irrecuperável***.  
   
+### Paginadores + head&tail
+`man head`,`man tail`, `man less`, `man more` para informações sobre os comandos
+O comando `head` e seu irmão `tail` mostram um número de linhas (por padrão 10, pode
+ser configurado com o parâmetro `-n NUMERO`) de um determinado arquivo, respectivamente, partindo do
+início do arquivo, e do final do arquivo.  
+O `more` é um paginador muito rudimentar, presente apenas por razões históricas e de
+compatibilidade, então iremos tratar de seu descendente `less`.  
+O `less` pagina arquivos, ou seja, similar ao que o comando `man` mostra para páginas de manual, o
+less faz para qualquer arquivo de texto, dessa forma, permite que o usuário leia arquivos de texto
+grandes diretamente do terminal sem utilizar um editor de texto como nano ou vim.  
 
