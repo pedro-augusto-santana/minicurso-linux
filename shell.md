@@ -117,5 +117,5 @@ partir para algumas abordagens mais específicas, estudando alguns comandos e al
 trabalho que podemos realizar utilizando os comandos, desde gerenciamento de arquivos até
 processamento de texto, desde de manipulação de redes até instalação e manutenção de pacotes.  
 Quanto estiver pronto(a) para conhecer mais comandos e funcionalidades do terminal, assim como
-demonstrações básicas de utilização, comece por [aqui!](./comandos/basics.md).  
+demonstrações básicas de utilização, comece por [aqui!](./arquivos/comandos/basics.md).  
   
